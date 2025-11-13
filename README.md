@@ -1,2 +1,1 @@
-iptv-org.github.io/iptv/index.m3u
-All country Tv index 
+https://iptv-org.github.io/iptv/countries/it.m3u
